@@ -6,7 +6,7 @@ Modify these please
 """
 url='http://10.0.100.21/ins'
 switchuser='admin'
-switchpassword='L@bbeR0ck99'
+switchpassword='99'
 
 myheaders={'content-type':'application/json-rpc'}
 payload=[
